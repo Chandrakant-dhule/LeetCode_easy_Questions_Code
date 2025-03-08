@@ -1,1 +1,2 @@
-# LeetCode_easy_Questions_Code
+# LeetCode_Easy
+# This is the code section of a LeetCode Easy problem: 🚀
